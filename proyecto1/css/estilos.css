@@ -16,7 +16,19 @@ body h1{
     font-size: 3.2rem;
     color: blueviolet;
 }
-.cabecera_container{
+.cabecera{
     background-color: cornflowerblue;
-    width: 50%;
+}
+.cabecera_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.titulo-container{
+    width: 100%;
+    background-color: darkcyan;
+    color: floralwhite;
+    font-size: 1.8rem;
 }

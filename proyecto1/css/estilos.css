@@ -16,3 +16,7 @@ body h1{
     font-size: 3.2rem;
     color: blueviolet;
 }
+.cabecera_container{
+    background-color: cornflowerblue;
+    width: 50%;
+}
